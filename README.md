@@ -27,7 +27,7 @@ A C++ quadtree based system for dividing a 2D space to efficiently find nearby o
 <img width="272" height="288" alt="Screenshot 2026-03-21 021739" src="https://github.com/user-attachments/assets/2545ab42-58fd-4584-9c1f-b2fe9336156c" />
 <br>
 Each line contains a single object in the format:
-ID, X, Y
+ID, X, Y <br>
 Example:<br> 
 5,24,0 <br> 
 69,23,0  <br>
