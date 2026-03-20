@@ -22,4 +22,21 @@ A C++ quadtree based system for dividing a 2D space to efficiently find nearby o
 - Recusive subdivision algorithm
 - Efficient Seach vs Brute force method
 ## 👀 Preview
-[https://youtu.be/rJnhMps-_Ys ](https://youtu.be/rJnhMps-_Ys)
+
+<img width="500" height="330" alt="Quadtree_eg" src="https://github.com/user-attachments/assets/6d09b945-cd2c-42e3-bd83-b965cfefcefc" />
+<img width="272" height="288" alt="Screenshot 2026-03-21 021739" src="https://github.com/user-attachments/assets/2545ab42-58fd-4584-9c1f-b2fe9336156c" />
+<br>
+Each line contains a single object in the format:
+ID, X, Y
+Example:<br> 
+5,24,0 <br> 
+69,23,0  <br>
+240,22,0  <br>
+
+**ID** -> Unique identifier  
+**X, Y** -> Coordinates in the 2D grid  
+
+
+https://github.com/user-attachments/assets/140c332b-852c-4a13-810f-60c754dc7000
+
+
